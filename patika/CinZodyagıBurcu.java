@@ -20,11 +20,11 @@ public class CinZodyagıBurcu {
 
             case 0:
                 burc = "Maymun";
-                System.out.println("Çin Zodyağı Burcunuz: " + burc);
+                
                 break;
             case 1:
                 burc = "Horoz";
-                System.out.println("Çin Zodyağı Burcunuz: " + burc);
+              
                 break;
             case 2:
                 burc = "Köpek";
